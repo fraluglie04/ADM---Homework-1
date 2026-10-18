@@ -3,10 +3,9 @@
 Algorithmic Methods of Data Mining - Homework 1
 Autore: <Francesco Lugliè>
 
-Soluzioni delle sfide HackerRank svolte. Ogni sezione riporta il nome della
-sfida e il codice consegnato su HackerRank.
-Nota: il file raccoglie le soluzioni, quindi non va eseguito tutto in una
-volta (ogni esercizio legge i suoi dati con input()).
+Solutions of the HackerRank challenges carried out. Each section gives the name of the
+challenge and the code delivered to HackerRank.
+
 """
 
 
